@@ -1,0 +1,38 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-JAPANESE-00048/canvas/1"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Home",
+            "purpose": "commenting",
+            "creator": {
+                "id": "JulietEvans222",
+                "name": "JulietEvans222"
+            },
+            "created": "2023-11-14T11:37:57.537Z",
+            "modified": "2023-11-14T11:37:57.821Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-JAPANESE-00048",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-JAPANESE-00048/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2370.2119140625,1619.3199462890625,140.482177734375,63.1998291015625"
+        }
+    },
+    "id": "a337b359-02ef-4e15-9d70-f78978ec475e.json",
+    "motivation": "commenting"
+}
